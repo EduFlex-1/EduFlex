@@ -42,4 +42,8 @@ streamlit run --server.port 8000 app.py
 
 ## Output Video
 
-[screen-capture (2).webm](https://github.com/user-attachments/assets/b917fed9-fd50-4970-a669-464b5c820d34)
+
+https://github.com/user-attachments/assets/164c2ba4-f393-4dae-94d5-34d1823c888b
+
+
+
